@@ -3,4 +3,5 @@
 
 console.log(3 + 3)
 console.log("Pritesh")
+console.log(typeof undefined);
 
